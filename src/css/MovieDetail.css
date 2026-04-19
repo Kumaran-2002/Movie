@@ -68,11 +68,11 @@
 
 @media (max-width: 768px) {
   .movie-detail {
-    min-height: 100vh;
+    min-height: 90vh;
   }
 
   .detail-content {
-    padding: 80px 1rem 1rem; /* 👈 reduce top space */
+    padding: 80px 1rem 1rem;
     max-width: 100%;
   }
 
